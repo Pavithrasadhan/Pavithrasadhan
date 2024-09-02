@@ -2,7 +2,7 @@
 
 Junior Front-End Developer | Experience in Online Shopping Portals | Eager to Join Innovative Development Teams.
 <img align="right" width="370" height="290" src="https://unsplash.com/photos/a-computer-keyboard-sitting-on-top-of-a-wooden-desk-Wyc7vHXfCDQ">
-- 🔭 Here's my [portfolio](https://Pavithra.web.app/)                                                 
+- 🔭 Here's my [Resume](C:\Users\SAI SADHAN\Downloads\Pavithra - Entry level-1.pdf)                                                 
 - 🤔 I’m looking for help with Placements
 - 💬 Ask me about Tech
 - 📫 How to reach me :
