@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Pavithra
 
 Junior Front-End Developer | Experience in Online Shopping Portals | Eager to Join Innovative Development Teams.
-<img align="right" width="370" height="290" src="premium_photo-1683309565422-77818a287060">
+<img align="right" width="370" height="290" src="https://unsplash.com/photos/a-computer-keyboard-sitting-on-top-of-a-wooden-desk-Wyc7vHXfCDQ">
 - 🔭 Here's my [portfolio](https://Pavithra.web.app/)                                                 
 - 🤔 I’m looking for help with Placements
 - 💬 Ask me about Tech
